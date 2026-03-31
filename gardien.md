@@ -1,0 +1,6 @@
+"# Patients de S‚nSant‚" 
+"" 
+"Liste des patients … g‚rer :" 
+"- Aminata Sow, Dakar, 34 ans" 
+"- Ibrahima Ba, ThiŠs, 45 ans" 
+"- Awa Diallo, Saint-Louis, 28 ans" 
